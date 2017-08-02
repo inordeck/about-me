@@ -21,6 +21,8 @@ interviewing - i'm comfortable with most of the interview aspects but i am conce
 [Here!](https://www.linkedin.com/in/iannordeck/)
 
 ## Meetups I've attended:
+8/1/17 - a day in the life of a developer // @ general assembly 
+	- met and talked to cara jo miller of girl develope it and brian ridge from sling tv
 
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
