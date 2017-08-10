@@ -36,3 +36,8 @@ based on my background, frontend seems like the obvious choice, but i also don't
 
 ## Link to my portfolio website: 
 [current personal portfolio](http://cargocollective.com/nordeck)
+[in-progress developer portfolio on gh-pages](https://inordeck.github.io/portfolio/)
+
+## identity guidelines
+![identity guidelines](http://i.imgur.com/7iOHg6v.jpg)
+
