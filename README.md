@@ -23,6 +23,9 @@ interviewing - i'm comfortable with most of the interview aspects but i am conce
 ## Meetups I've attended:
 8/1/17 - a day in the life of a developer // @ general assembly 
 	- met and talked to cara jo miller of girl develope it and brian ridge from sling tv
+8/22/17 - denver scripts // @ code talent
+	- presentations on webpack and audio api.
+	- met dev currently working for a defense contractor who hates it. said is was a bait and switch and is not working on the project he was told he would be working on and is now working in very old technologies and platforms
 
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
