@@ -18,7 +18,7 @@ interviewing - i'm comfortable with most of the interview aspects but i am conce
 
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/iannordeck/)
+[linked in profile](https://www.linkedin.com/in/iannordeck/)
 
 ## Meetups I've attended:
 8/1/17 - a day in the life of a developer // @ general assembly 
@@ -35,11 +35,12 @@ after 16 years of working in design and advertising, i'm pretty burnt out on the
 based on my background, frontend seems like the obvious choice, but i also don't want to get stuck in a design position since i'm trying to transition out of design into a developer role. (i'm really tired of designing websites to put into a powerpoint presentation for someone else to figure out how to build it.) right now i'm leaning on the idea of doing both because i'm fascinated by how the backend works and i understand how to make the front end look good.
 
 ## Link to my resume: 
-[Here!](nordeck-chiefton-design-resume.pdf)
+* [old resume](nordeck-chiefton-design-resume.pdf)
+* [dev resume](nordeck-resume-3.pdf)
 
 ## Link to my portfolio website: 
-[current personal portfolio](http://cargocollective.com/nordeck)
-[in-progress developer portfolio on gh-pages](https://inordeck.github.io/portfolio/)
+* [current personal portfolio](http://cargocollective.com/nordeck)
+* [in-progress developer portfolio on gh-pages](https://inordeck.github.io/portfolio/)
 
 ## identity guidelines
 ![identity guidelines](http://i.imgur.com/7iOHg6v.jpg)
