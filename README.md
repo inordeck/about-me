@@ -35,8 +35,9 @@ after 16 years of working in design and advertising, i'm pretty burnt out on the
 based on my background, frontend seems like the obvious choice, but i also don't want to get stuck in a design position since i'm trying to transition out of design into a developer role. (i'm really tired of designing websites to put into a powerpoint presentation for someone else to figure out how to build it.) right now i'm leaning on the idea of doing both because i'm fascinated by how the backend works and i understand how to make the front end look good.
 
 ## Link to my resume: 
-* [old resume](nordeck-chiefton-design-resume.pdf)
 * [dev resume](nordeck-resume-4.pdf)
+* [old resume](nordeck-chiefton-design-resume.pdf)
+
 
 ## Link to my portfolio website: 
 * [current personal portfolio](http://cargocollective.com/nordeck)
