@@ -36,7 +36,7 @@ based on my background, frontend seems like the obvious choice, but i also don't
 
 ## Link to my resume: 
 * [old resume](nordeck-chiefton-design-resume.pdf)
-* [dev resume](nordeck-resume-3.pdf)
+* [dev resume](nordeck-resume-4.pdf)
 
 ## Link to my portfolio website: 
 * [current personal portfolio](http://cargocollective.com/nordeck)
