@@ -44,8 +44,7 @@ based on my background, frontend seems like the obvious choice, but i also don't
 
 
 ## Link to my resume: 
-* [dev resume](nordeck-resume-4.pdf)
-* [old resume](nordeck-chiefton-design-resume.pdf)
+* [dev resume](nordeck-resume-092917.pdf)
 
 
 ## Link to my portfolio website: 
@@ -54,5 +53,3 @@ based on my background, frontend seems like the obvious choice, but i also don't
 
 
 ## identity guidelines
-![identity guidelines](http://i.imgur.com/7iOHg6v.jpg)
-
